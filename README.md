@@ -11,3 +11,11 @@ Turn sports practice film into playable avatars in 3D gaming environment
   <span style="background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; font-weight: bold; color: #007ACC;">Python 3.6</span>,
   <span style="background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; font-weight: bold; color: #007ACC;">PyTorch 1.4</span>
 </div>
+
+# References
+This repository is built on top of the following repositories:
+* Learning Physically Simulated Tennis Skills from Broadcast Videos [Hoatian Zhang]([https://github.com/ZhengyiLuo/EmbodiedPose](https://github.com/nv-tlabs/vid2player3d))
+* Controllable Character Video Synthesis with Spatial Decomposed Modeling [MIMO]([https://github.com/electronicarts/character-motion-vaes](https://github.com/menyifang/MIMO))
+    
+## Contact
+Kevin Ubilla kevin@elisxr.com
