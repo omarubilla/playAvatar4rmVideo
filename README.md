@@ -14,8 +14,8 @@ Turn sports practice film into playable avatars in 3D gaming environment
 
 # References
 This repository is built on top of the following repositories:
-* Learning Physically Simulated Tennis Skills from Broadcast Videos [Hoatian Zhang]([https://github.com/ZhengyiLuo/EmbodiedPose](https://github.com/nv-tlabs/vid2player3d))
-* Controllable Character Video Synthesis with Spatial Decomposed Modeling [MIMO]([https://github.com/electronicarts/character-motion-vaes](https://github.com/menyifang/MIMO))
+* Learning Physically Simulated Tennis Skills from Broadcast Videos [Hoatian Zhang](https://github.com/nv-tlabs/vid2player3d)
+* Controllable Character Video Synthesis with Spatial Decomposed Modeling [MIMO](https://github.com/menyifang/MIMO)
     
 ## Contact
 Kevin Ubilla kevin@elisxr.com
