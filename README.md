@@ -1,4 +1,4 @@
-# Turn sports practice film into playable avatars in 3D gaming environment
+# Video to Playable Avatars in 3D Gaming Environment
 ![](https://img.shields.io/static/v1?label=python&message=3.6|3.7&color=blue)
 ![](https://img.shields.io/static/v1?label=pytorch&message=1.4&color=<COLOR>)
 [![](https://img.shields.io/static/v1?label=license&message=BSD3&color=green)](./License.txt)
