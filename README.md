@@ -34,5 +34,5 @@ This repository is built on top of the following repositories:
 * Controllable Character Video Synthesis with Spatial Decomposed Modeling [MIMO](https://github.com/menyifang/MIMO)
     
 ## Contact
-Kevin Ubilla kevin@elisxr.com
+Kevin Ubilla kevin@elisxr.com | 
 www.elisxr.ai
