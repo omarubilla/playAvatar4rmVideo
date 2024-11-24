@@ -15,6 +15,7 @@ by Artem Tikhonov, Kevin Ubilla
 
 
 # In The News
+![alt text](https://github.com/omarubilla/playAvatar4rmVideo/blob/main/stanfordDailyArticle.png?raw=true)
 
 [Stanford Daily Article](https://stanforddaily.com/2022/10/20/ubilla-m-s-26-seeks-to-revolutionize-sports-with-augmented-reality/)
 
