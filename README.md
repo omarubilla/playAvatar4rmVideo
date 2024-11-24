@@ -22,9 +22,9 @@ by Artem Tikhonov, Kevin Ubilla et al.
 
 # Acknowledgements
 
-This work was created with guidance from Jiaman Li and Yifeng Jiang from Stanford's Movement Lab.
+This work was created with guidance from Jiaman Li and Yifeng Jiang, PhD students at Stanford's Movement Lab.
 
-We are grateful for proffesor Karen Liu's mentorhip, along with the greater Wu Tsai Human Performance Alliance community at Stanford University.
+We are grateful for proffesor Karen Liu's mentorhip, along with the greater Wu Tsai Human Performance Alliance and the Wearable Electronics Initiative communities at Stanford University.
 
 Demo videos and prototyping was first conducted at De Anza College in Cupertino, CA. [Apple Founders-De Anza Alumni](https://apple.fandom.com/wiki/De_Anza_College)
 
