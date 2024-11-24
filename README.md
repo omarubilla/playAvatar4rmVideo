@@ -9,7 +9,10 @@ Turn sports practice film into playable avatars in 3D gaming environment
 
 ## Step 2: Map Scene to 3D Environment
 
-## Step 1: Add Playable Avatar Based 
+## Step 3: Add Playable Avatar 
+
+## Step 4: Controls: Zoom/Pan/Switch Player/Next Play 
+
 
 
 # Acknowledgements
