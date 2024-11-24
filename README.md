@@ -3,7 +3,7 @@
 ![](https://img.shields.io/static/v1?label=pytorch&message=1.4&color=<COLOR>)
 [![](https://img.shields.io/static/v1?label=license&message=BSD3&color=green)](./License.txt)
 
-by Artem Tikhonov, Kevin Ubilla
+by Artem Tikhonov, Kevin Ubilla et al.
 
 ## Step 1: Import MP4 File
 
@@ -15,7 +15,7 @@ by Artem Tikhonov, Kevin Ubilla
 
 
 # In The News
-![alt text](https://github.com/omarubilla/playAvatar4rmVideo/blob/main/stanfordDailyArticle.png?raw=true)
+![alt text](https://github.com/omarubilla/playAvatar4rmVideo/main/stanfordDailyArticle.png?raw=true)
 
 [Stanford Daily Article](https://stanforddaily.com/2022/10/20/ubilla-m-s-26-seeks-to-revolutionize-sports-with-augmented-reality/)
 
