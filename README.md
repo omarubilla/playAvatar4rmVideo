@@ -5,12 +5,20 @@
 
 Turn sports practice film into playable avatars in 3D gaming environment
 
-## Requirements
+## Step 1: Import MP4 File
 
-<div style="font-family: Arial, sans-serif; font-size: 16px; color: #333; margin: 10px 0;">
-  <span style="background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; font-weight: bold; color: #007ACC;">Python 3.6</span>,
-  <span style="background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; font-weight: bold; color: #007ACC;">PyTorch 1.4</span>
-</div>
+## Step 2: Map Scene to 3D Environment
+
+## Step 1: Add Playable Avatar Based 
+
+
+# Acknowledgements
+
+This work was created with guidance from Jiaman Li and Yifeng Jiang from Stanford's Movement Lab.
+
+We are grateful for the guidance of proffesor Karen Liu, along with the greater Wu Tsai Human Performance Alliance community at Stanford University.
+
+Demo videos and prototyping was first conducted at De Anza College in Cupertino, CA. [Apple Founders-De Anza Alumni](https://apple.fandom.com/wiki/De_Anza_College)
 
 # References
 This repository is built on top of the following repositories:
