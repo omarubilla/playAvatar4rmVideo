@@ -1,9 +1,9 @@
-# playAvatar4rmVideo
+# Turn sports practice film into playable avatars in 3D gaming environment
 ![](https://img.shields.io/static/v1?label=python&message=3.6|3.7&color=blue)
 ![](https://img.shields.io/static/v1?label=pytorch&message=1.4&color=<COLOR>)
 [![](https://img.shields.io/static/v1?label=license&message=BSD3&color=green)](./License.txt)
 
-Turn sports practice film into playable avatars in 3D gaming environment
+by Artem Tikhonov, Kevin Ubilla
 
 ## Step 1: Import MP4 File
 
@@ -14,12 +14,16 @@ Turn sports practice film into playable avatars in 3D gaming environment
 ## Step 4: Controls: Zoom/Pan/Switch Player/Next Play 
 
 
+# In The News
+
+[Stanford Daily Article](https://stanforddaily.com/2022/10/20/ubilla-m-s-26-seeks-to-revolutionize-sports-with-augmented-reality/)
+
 
 # Acknowledgements
 
 This work was created with guidance from Jiaman Li and Yifeng Jiang from Stanford's Movement Lab.
 
-We are grateful for the guidance of proffesor Karen Liu, along with the greater Wu Tsai Human Performance Alliance community at Stanford University.
+We are grateful for proffesor Karen Liu's mentorhip, along with the greater Wu Tsai Human Performance Alliance community at Stanford University.
 
 Demo videos and prototyping was first conducted at De Anza College in Cupertino, CA. [Apple Founders-De Anza Alumni](https://apple.fandom.com/wiki/De_Anza_College)
 
@@ -30,3 +34,4 @@ This repository is built on top of the following repositories:
     
 ## Contact
 Kevin Ubilla kevin@elisxr.com
+www.elisxr.ai
