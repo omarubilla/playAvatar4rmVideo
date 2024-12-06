@@ -5,6 +5,9 @@
 
 by Artem Tikhonov, Kevin Ubilla et al.
 
+![Stanford Daily Article](deAnza.gif?raw=true)
+
+
 ## Step 1: Import MP4 File
 
 ## Step 2: Map Scene to 3D Environment
